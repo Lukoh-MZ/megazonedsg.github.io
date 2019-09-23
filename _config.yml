@@ -50,6 +50,12 @@ authors:
     email: munbc@mz.co.kr
     github_username: munbc8308
     facebook_username:
+    
+  Lukoh:
+    name: 남걸호
+    bio: 열정적인 개발자이자 기술부채를 줄이기 위해서 항상 노력합니다.
+    email: namkulho@mz.co.kr
+    github_username: Lukoh
 
 # Defaults
 defaults:
